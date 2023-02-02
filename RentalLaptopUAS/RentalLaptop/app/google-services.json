@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522193827125",
+    "firebase_url": "https://rentallaptop-cb2ac-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rentallaptop-cb2ac",
+    "storage_bucket": "rentallaptop-cb2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522193827125:android:879ca0c4cde30ceef0487c",
+        "android_client_info": {
+          "package_name": "com.example.rentallaptop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522193827125-n5qijob53g8bt6mpndkdl0ujd2di1ldg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyar5osDT3hLE5Df9QrDNU8vOoxOgJaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522193827125-n5qijob53g8bt6mpndkdl0ujd2di1ldg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

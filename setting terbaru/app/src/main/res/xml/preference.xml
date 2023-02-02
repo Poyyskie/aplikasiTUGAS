@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="general">
+        <SwitchPreference
+            android:key="theme_preference"
+            android:defaultValue="false"
+            android:title="drak theme" />
+        <Preference
+            android:key="import_preference"
+            android:summary="import databse"
+            android:title="Import" />
+        <Preference
+            android:key="export_preference"
+            android:summary="export database"
+            android:title="export" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Bantuan" >
+        <Preference
+            android:title="bahasa"
+            android:summary="pengaturan bahasa" />
+        <Preference
+            android:title="pengaturan privasi"
+            android:summary="Atur privasi anda" />
+    </PreferenceCategory>
+
+
+
+    <PreferenceCategory
+        android:title="about">
+        <Preference
+            android:title="version"
+            android:summary="1.0" />
+        <Preference
+            android:key="contact_preference"
+            android:title="About Us" />
+    </PreferenceCategory>
+
+
+
+
+</PreferenceScreen>
